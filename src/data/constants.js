@@ -493,19 +493,19 @@ export const projects = [
     github: "https://github.com/rishavchanda/Job-finder-App",
     webapp: "https://github.com/rishavchanda/Job-finder-App",
   },
-  {
-    id: 4,
-    title: "Whatsapp Clone",
-    date: "Jul 2021",
-    description:
-      "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
-    image:
-      "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
-    tags: ["React Js", "Firebase", "Firestore", "Node JS"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-    webapp: "https://whatsapp-clone-rishav.web.app",
-  },
+  // {
+  //   id: 4,
+  //   title: "Whatsapp Clone",
+  //   date: "Jul 2021",
+  //   description:
+  //     "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
+  //   image:
+  //     "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
+  //   tags: ["React Js", "Firebase", "Firestore", "Node JS"],
+  //   category: "web app",
+  //   github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
+  //   webapp: "https://whatsapp-clone-rishav.web.app",
+  // },
   {
     id: 5,
     title: "Instagram Clone",
